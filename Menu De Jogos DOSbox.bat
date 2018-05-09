@@ -1,7 +1,7 @@
 ::=====================================================================
 :: Autor: NIDObr
-:: Versão: v5.0
-:: Feito em: 09/05/2018
+:: Versão: v1.0
+:: Feito em: 06/05/2018
 :: Escript feito para rodar com o DOSBox: www.dosbox.com
 :: Menu de escolha de jogos
 ::=====================================================================
